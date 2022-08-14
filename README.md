@@ -6,6 +6,7 @@ I'm a second year computer engineering student at **Iran University of Science a
 #
 - I’m currently working on making a game with Unity 🔭
 - I’m currently learning C# language and passing CCNA network course and ...🌱
+- Ask me about python, c++, c# and Git 💬
 #
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=supernova-Z313)](https://github.com/anuraghazra/github-readme-stats)
