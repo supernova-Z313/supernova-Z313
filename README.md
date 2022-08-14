@@ -1,4 +1,11 @@
-### Hi there 👋
+## Welcome to Supernova! 👋
+
+Hi! My name is **Ahmad Reza** and I love *space* and *computers*.💻 🌌
+I'm a second year computer engineering student at **Iran University of Science and Technology**🎓
+#
+- I’m currently working on making a game with Unity 🔭
+- I’m currently learning C# language and passing CCNA network course and ...🌱
+#
 
 <!--
 **supernova-Z313/supernova-Z313** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
