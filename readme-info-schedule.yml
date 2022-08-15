@@ -10,7 +10,7 @@ jobs:
     name: GitHub README Generator
     runs-on: ubuntu-latest
     steps:
-      - uses: th3c0d3br34ker/github-readme-info@master
+      - uses: supernova-Z313/supernova-Z313
         with:
           GH_TOKEN: ${{ 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 }}
           TIMEZONE: "Asia/Tehran"
