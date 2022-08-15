@@ -15,8 +15,8 @@ jobs:
           GH_TOKEN: ${{ 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 }}
           TIMEZONE: "Asia/Tehran"
           SHOW_LINES_OF_CODE: "True"
-          SHOW_PROFILE_VIEWS: "True"
+          SHOW_PROFILE_VIEWS: "False"
           SHOW_DAILY_COMMIT: "True"
           SHOW_WEEKLY_COMMIT: "True"
-          SHOW_LANGUAGE: "True"
-          SHOW_TOTAL_CONTRIBUTIONS: "True"
+          SHOW_LANGUAGE: "False"
+          SHOW_TOTAL_CONTRIBUTIONS: "False"
