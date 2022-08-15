@@ -17,6 +17,20 @@ I'm a second year computer engineering student at **Iran University of Science a
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=supernova-Z313)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=supernova-Z313)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
+<!--START_SECTION_LINES_OF_CODE:readme-info-->
+<!--END_SECTION_LINES_OF_CODE:readme-info-->
+
+<!--START_SECTION_DAILY_COMMIT:readme-info-->
+<!--END_SECTION_DAILY_COMMIT:readme-info-->
+
+<!--START_SECTION_WEEKLY_COMMIT:readme-info-->
+<!--END_SECTION_WEEKLY_COMMIT:readme-info-->
+
+
+
 <!--
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=supernova-Z313&repo=Learning-ASP.NET-Core-Razor-Pages-Template-02)](https://github.com/anuraghazra/github-readme-stats)
 -->
