@@ -19,8 +19,8 @@ I'm a second year computer engineering student at **Iran University of Science a
 
 
 
-<!--START_SECTION_LINES_OF_CODE:readme-info-->
-<!--END_SECTION_LINES_OF_CODE:readme-info-->
+<!--START_SECTION_LINES_OF_CODE:readme-info-schedule-->
+<!--END_SECTION_LINES_OF_CODE:readme-info-schedule-->
 
 <!--START_SECTION_DAILY_COMMIT:readme-info-->
 <!--END_SECTION_DAILY_COMMIT:readme-info-->
