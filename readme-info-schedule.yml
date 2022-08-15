@@ -13,7 +13,7 @@ jobs:
       - uses: supernova-Z313/supernova-Z313@master
         with:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
-          TIMEZONE: "Asia/Tehran"
+          TIMEZONE: "Asia/Kolkata"
           SHOW_LINES_OF_CODE: "True"
           SHOW_PROFILE_VIEWS: "False"
           SHOW_DAILY_COMMIT: "True"
