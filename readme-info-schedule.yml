@@ -8,7 +8,7 @@ on:
 jobs:
   update-readme:
     name: GitHub README Generator
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-18.04
     steps:
       - uses: supernova-Z313/supernova-Z313@master
         with:
