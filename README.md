@@ -4,7 +4,7 @@ Hi! My name is **Ahmad Reza** and I love *space* and *computers*.💻 🌌
 
 I'm a second year computer engineering student at **Iran University of Science and Technology**🎓
 #
-- I’m currently working on making a game with Unity 🔭
+- I’m currently working with my team on making a game with Unity 🔭
 - I’m currently learning C# language and passing CCNA network course and ...🌱
 - Ask me about python, c++, c# and Git 💬
 #
