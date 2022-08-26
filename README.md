@@ -34,11 +34,8 @@ I'm a second year computer engineering student at **Iran University of Science a
 </p>
 
 
-<p align="left">
 <a href="https://github-readme-stats.vercel.app/api?username=ryihan&count_private=true&show_icons=true&theme=radical"><img alt="supernova-Z313 Activity Graph" src="https://github-readme-stats.vercel.app/api?username=supernova-Z313&count_private=true&show_icons=true&theme=radical" /></a>
-</p><p align="right">
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=supernova-Z313&theme=radical&langs_count=6&layout=compact"><img alt="supernova-Z313 Activity Graph" src="https://github-readme-stats.vercel.app/api/top-langs/?username=supernova-Z313&theme=radical&langs_count=6&layout=compact" /></a>
-</p>
 
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=supernova-Z313&theme=radical&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
