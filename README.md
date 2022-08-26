@@ -34,7 +34,12 @@ I'm a second year computer engineering student at **Iran University of Science a
 </p>
 
 
-<a href="https://github-readme-stats.vercel.app/api?username=ryihan&count_private=true&show_icons=true&theme=radical"><img alt="supernova-Z313 Activity Graph" src="https://github-readme-stats.vercel.app/api?username=supernova-Z313&count_private=true&show_icons=true&theme=radical" /></a><a href="https://github-readme-stats.vercel.app/api/top-langs/?username=supernova-Z313&theme=radical&langs_count=6&layout=compact"><img alt="supernova-Z313 Activity Graph" src="https://github-readme-stats.vercel.app/api/top-langs/?username=supernova-Z313&theme=radical&langs_count=6&layout=compact" /></a>```````````````````````````
+<a href="https://github-readme-stats.vercel.app/api?username=ryihan&count_private=true&show_icons=true&theme=radical"><img alt="supernova-Z313 Activity Graph" src="https://github-readme-stats.vercel.app/api?username=supernova-Z313&count_private=true&show_icons=true&theme=radical" /></a><a href="https://github-readme-stats.vercel.app/api/top-langs/?username=supernova-Z313&theme=radical&langs_count=6&layout=compact"><img alt="supernova-Z313 Activity Graph" src="https://github-readme-stats.vercel.app/api/top-langs/?username=supernova-Z313&theme=radical&langs_count=6&layout=compact" /></a>
 
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=supernova-Z313&theme=radical&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=supernova-Z313&theme=radical&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)<p align="center">
+<a href="mailto:supernova313.313z@gmail.com"><img src="https://github.com/supernova-Z313/icons-badges/blob/master/badges/Gmail/gmail.svg" alt="gmail" style="vertical-align:top; margin:6px 4px"></a>
+<a href="https://www.linkedin.com/in/ahmadreza-zabihi-chashmi"><img src="https://github.com/supernova-Z313/icons-badges/blob/master/badges/LinkedIn/linkedin.svg" alt="linkedin" style="vertical-align:top; margin:6px 4px"></a>
+<a href="https://t.me/A_R_nasa"><img src="https://github.com/supernova-Z313/icons-badges/blob/master/badges/Telegram/telegram.svg" alt="telegram" style="vertical-align:top; margin:6px 4px"></a>
+<a href="https://join.skype.com/invite/O4h700v4xhT1"><img src="https://github.com/supernova-Z313/icons-badges/blob/master/badges/Skype/skype.svg" alt="skype" style="vertical-align:top; margin:6px 4px"></a>
+<a href="https://discordapp.com/users/supernova_1#0689"><img src="https://github.com/supernova-Z313/icons-badges/blob/master/badges/Discord1.svg" alt="discord" style="vertical-align:top; margin:6px 4px"></a></p>
