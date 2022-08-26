@@ -1,6 +1,6 @@
 <h1 align="center">Welcome to Supernova profile! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"></h1>
 
-Hi! My name is **Ahmad Reza** and I love *space* and *computers*.💻 🌌
+Hi! My name is **Ahmad Reza** and I love *space* and *computers*.💻 🌌  
 I'm a second year computer engineering student at **Iran University of Science and Technology**🎓
 
 - 🔭 I’m currently working with my team on making a game with Unity 
@@ -13,5 +13,4 @@ I'm a second year computer engineering student at **Iran University of Science a
 
 
 
-<h2>🔌 Connect with me <p align="right"><img src="https://komarev.com/ghpvc/?username=supernova-Z313&label=Profile%20views&color=0e75b6&style=flat" alt="supernova-Z313"/></p></h2>
-
+<h2><p aling="left">🔌 Connect with me</p><p align="right"><img src="https://komarev.com/ghpvc/?username=supernova-Z313&label=Profile%20views&color=0e75b6&style=flat" alt="supernova-Z313"/></p></h2>
