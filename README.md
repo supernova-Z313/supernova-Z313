@@ -16,7 +16,7 @@ I'm a second year computer engineering student at **Iran University of Science a
 <h2 align="center">🔌 Connect with me <img src="https://komarev.com/ghpvc/?username=supernova-Z313&label=Profile%20views&color=0e75b6&style=flat" alt="supernova-Z313"/></h2>
 
 <p align="center">
-<a href="mailto:supernova313.313z@gmail.com"><img src="svg/social/gmail.svg" alt="gmail" style="vertical-align:top; margin:6px 4px"></a>
+<a href="mailto:supernova313.313z@gmail.com"><img src="https://github.com/keikomori/icons-badges/blob/master/badges/Gmail/gmail.svg" alt="gmail" style="vertical-align:top; margin:6px 4px"></a>
 <a href="https://www.linkedin.com/in/ahmadreza-zabihi-chashmi"><img src="svg/social/linkedin.svg" alt="linkedin" style="vertical-align:top; margin:6px 4px"></a>
 <a href="https://t.me/A_R_nasa"><img src="svg/social/telegram.svg" alt="telegram" style="vertical-align:top; margin:6px 4px"></a>
 <a href="https://join.skype.com/invite/O4h700v4xhT1"><img src="svg/social/skype.svg" alt="skype" style="vertical-align:top; margin:6px 4px"></a>
