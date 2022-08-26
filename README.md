@@ -47,10 +47,12 @@ I'm a second year computer engineering student at **Iran University of Science a
 <br/>
 <p align="center"><a href="https://github-readme-stats.vercel.app/api?username=supernova-Z313&count_private=true&show_icons=true&theme=radical"><img alt="supernova-Z313 Activity Graph" src="https://github-readme-stats.vercel.app/api?username=supernova-Z313&count_private=true&show_icons=true&theme=radical" /></a></p>
 
-<p align="center"><a href="https://github.com/anuraghazra/github-readme-stats"><img alt="supernova Github Stats" src="https://github-readme-streak-stats.herokuapp.com?user=supernova-Z313&theme=radical&date_format=j%20M%5B%20Y%5D"></p>
+<p align="center"><a href="https://github.com/anuraghazra/github-readme-stats"><img alt="supernova Github Stats" src="https://github-readme-streak-stats.herokuapp.com?user=supernova-Z313&theme=radical&date_format=j%20M%5B%20Y%5D"></a></p>
 <br/>
 </details>
 
 #
 
-**If you consider buying me a coffee/tea** 🥺👉👈   <a href="https://www.buymeacoffee.com/" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
+<p align="center"><a href="https://www.buymeacoffee.com/" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a></p>
+
+<p align="center"><h>**If you consider buying me a coffee/tea** 🥺👉👈   </h></p>
