@@ -29,8 +29,7 @@ I'm a second year computer engineering student at **Iran University of Science a
 
 <h2 align="center">📊 Stats</h2>
 
-<p align="left">
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=supernova-Z313&theme=radical&langs_count=6&layout=compact"><img alt="supernova-Z313 Activity Graph" src="https://github-readme-stats.vercel.app/api/top-langs/?username=supernova-Z313&theme=radical&langs_count=6&layout=compact" /></a></p><p align="right"><a href="https://github.githubassets.com/images/icons/emoji/octocat.png"><img alt="octocat" src="https://github.githubassets.com/images/icons/emoji/octocat.png"></p>
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=supernova-Z313&theme=radical&langs_count=6&layout=compact"><img alt="supernova-Z313 Activity Graph" src="https://github-readme-stats.vercel.app/api/top-langs/?username=supernova-Z313&theme=radical&langs_count=6&layout=compact" /></a><a href="https://github.githubassets.com/images/icons/emoji/octocat.png"><img alt="octocat" src="https://github.githubassets.com/images/icons/emoji/octocat.png">
 
 <details>
 <summary>GitHub Activity Graph 📈</summary>
@@ -39,7 +38,9 @@ I'm a second year computer engineering student at **Iran University of Science a
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="supernova-Z313 Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=supernova-Z313&bg_color=1F222E&color=F8D866&line=038712&point=036687&hide_border=true" /></a>
 </p>
 <br/>
-</details><details>
+</details>
+
+<details>
 <summary>🔥 GitHub Profile & Streak Stats 💻</summary>
 <br/>
 <p align="center"><a href="https://github-readme-stats.vercel.app/api?username=supernova-Z313&count_private=true&show_icons=true&theme=radical"><img alt="supernova-Z313 Activity Graph" src="https://github-readme-stats.vercel.app/api?username=supernova-Z313&count_private=true&show_icons=true&theme=radical" /></a></p>
@@ -50,7 +51,7 @@ I'm a second year computer engineering student at **Iran University of Science a
 
 #
 
-<p align="center"> If you consider buying me a coffee/tea 🥺👉👈 </p>
+<p align="center"><h4> If you consider buying me a coffee/tea 🥺👉👈 </h4></p>
 <p align="center">
 <a href="https://www.buymeacoffee.com/" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 </p>
