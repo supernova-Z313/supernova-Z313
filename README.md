@@ -53,4 +53,4 @@ I'm a second year computer engineering student at **Iran University of Science a
 
 #
 
-<p align="center"> **If you consider buying me a coffee/tea** 🥺👉👈 </p> <p align="center"><a href="https://www.buymeacoffee.com/" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a></p>
+**If you consider buying me a coffee/tea** 🥺👉👈   <a href="https://www.buymeacoffee.com/" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
