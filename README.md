@@ -29,6 +29,9 @@ I'm a second year computer engineering student at **Iran University of Science a
 
 <h2 align="center">📊 Stats</h2>
 
+<p align="left">
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=supernova-Z313&theme=radical&langs_count=6&layout=compact"><img alt="supernova-Z313 Activity Graph" src="https://github-readme-stats.vercel.app/api/top-langs/?username=supernova-Z313&theme=radical&langs_count=6&layout=compact" /></a></p><p align="right"><a href="https://github.githubassets.com/images/icons/emoji/octocat.png"><img alt="octocat" src="https://github.githubassets.com/images/icons/emoji/octocat.png"></p>
+
 <details>
 <summary>GitHub Activity Graph 📈</summary>
 <br/>
@@ -45,6 +48,9 @@ I'm a second year computer engineering student at **Iran University of Science a
 <br/>
 </details>
 
+#
 
+<p align="center"> If you consider buying me a coffee/tea 🥺👉👈 </p>
 <p align="center">
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=supernova-Z313&theme=radical&langs_count=6&layout=compact"><img alt="supernova-Z313 Activity Graph" src="https://github-readme-stats.vercel.app/api/top-langs/?username=supernova-Z313&theme=radical&langs_count=6&layout=compact" /></a></p>
+<a href="https://www.buymeacoffee.com/" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
+</p>
