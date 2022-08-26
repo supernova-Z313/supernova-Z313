@@ -22,6 +22,8 @@ I'm a second year computer engineering student at **Iran University of Science a
 <a href="https://join.skype.com/invite/O4h700v4xhT1"><img src="https://github.com/supernova-Z313/icons-badges/blob/master/badges/Skype/skype.svg" alt="skype" style="vertical-align:top; margin:6px 4px"></a>
 <a href="https://discordapp.com/users/supernova_1#0689"><img src="https://github.com/supernova-Z313/icons-badges/blob/master/badges/Discord1.svg" alt="discord" style="vertical-align:top; margin:6px 4px"></a></p>
 
+<p align="center"><a href="https://github.githubassets.com/images/icons/emoji/octocat.png"><img alt="octocat" src="https://github.githubassets.com/images/icons/emoji/octocat.png"></p>
+
 <!-- whatsapp and steam account 
 <a href="#"><img src="svg/social/whatsapp.svg" alt="whatsapp" style="vertical-align:top; margin:6px 4px"></a>
 </p>
@@ -29,10 +31,10 @@ I'm a second year computer engineering student at **Iran University of Science a
 
 <h2 align="center">📊 Stats</h2>
 
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=supernova-Z313&theme=radical&langs_count=6&layout=compact"><img alt="supernova-Z313 Activity Graph" src="https://github-readme-stats.vercel.app/api/top-langs/?username=supernova-Z313&theme=radical&langs_count=6&layout=compact" /></a><a href="https://github.githubassets.com/images/icons/emoji/octocat.png"><img alt="octocat" src="https://github.githubassets.com/images/icons/emoji/octocat.png">
+<p align="center"><a href="https://github-readme-stats.vercel.app/api/top-langs/?username=supernova-Z313&theme=radical&langs_count=6&layout=compact"><img alt="supernova-Z313 Activity Graph" src="https://github-readme-stats.vercel.app/api/top-langs/?username=supernova-Z313&theme=radical&langs_count=6&layout=compact" /></a></p>
 
 <details>
-<summary>GitHub Activity Graph 📈</summary>
+<summary> GitHub Activity Graph 📈 </summary>
 <br/>
 <p align="center">
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="supernova-Z313 Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=supernova-Z313&bg_color=1F222E&color=F8D866&line=038712&point=036687&hide_border=true" /></a>
@@ -51,7 +53,4 @@ I'm a second year computer engineering student at **Iran University of Science a
 
 #
 
-<p align="center"><h4> If you consider buying me a coffee/tea 🥺👉👈 </h4></p>
-<p align="center">
-<a href="https://www.buymeacoffee.com/" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
-</p>
+<h3> If you consider buying me a coffee/tea 🥺👉👈 </h3> <a href="https://www.buymeacoffee.com/" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
