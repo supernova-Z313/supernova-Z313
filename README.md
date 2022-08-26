@@ -27,19 +27,21 @@ I'm a second year computer engineering student at **Iran University of Science a
 </p>
 -->
 
-<h2 align="center">📊 State</h2>
+<h2 align="center">📊 Stats</h2>
 
+<details>
+<summary>GitHub Activity Graph 📈</summary>
+<br/>
 <p align="center">
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="supernova-Z313 Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=supernova-Z313&bg_color=1F222E&color=F8D866&line=038712&point=036687&hide_border=true" /></a>
 </p>
-
-
-<details>
+<br/>
+</details><details>
 <summary>🔥 GitHub Profile & Streak Stats 💻</summary>
 <br/>
-<a href="https://github-readme-stats.vercel.app/api?username=ryihan&count_private=true&show_icons=true&theme=radical"><img alt="supernova-Z313 Activity Graph" src="https://github-readme-stats.vercel.app/api?username=supernova-Z313&count_private=true&show_icons=true&theme=radical" /></a>
+<p align="center"><a href="https://github-readme-stats.vercel.app/api?username=supernova-Z313&count_private=true&show_icons=true&theme=radical"><img alt="supernova-Z313 Activity Graph" src="https://github-readme-stats.vercel.app/api?username=supernova-Z313&count_private=true&show_icons=true&theme=radical" /></a></p>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=supernova-Z313&theme=radical&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+<p align="center"><a href="https://github.com/anuraghazra/github-readme-stats"><img alt="supernova Github Stats" src="https://github-readme-streak-stats.herokuapp.com?user=supernova-Z313&theme=radical&date_format=j%20M%5B%20Y%5D"></p>
 <br/>
 </details>
 
