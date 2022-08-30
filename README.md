@@ -65,4 +65,7 @@ spatify state
 discord state
 time_day_weak state
 little cool thanks or else animation
+font of logo is:
+    Veronese Medium Condense
+    Riga Screen
 -->
